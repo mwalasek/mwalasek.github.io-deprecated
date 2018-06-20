@@ -1,0 +1,53 @@
+name: MSc. Marek Walasek
+
+description: IT consultant & developer - Frankfurt (Main) area
+
+avatar: https://avatars3.githubusercontent.com/u/13674146
+
+theme: jekyll-theme-slate
+
+footer-links:
+  dribbble:
+  email: mawalasek@googlemail.com
+  facebook:
+  flickr:
+  github: mwalasek
+  instagram:
+  linkedin: https://www.linkedin.com/in/marek-walasek-01724aa1
+  meetup: https://www.meetup.com/de-DE/members/202370697 # Doesn't work :(
+  pinterest:
+  rss: 
+  twitter:
+  stackoverflow:
+
+disqus:
+
+google_analytics:
+
+url:
+
+baseurl: ""
+
+permalink: /:title/
+
+version: v1.2.0
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: 'highlight'
+
+sass:
+  style: :expanded
+
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
